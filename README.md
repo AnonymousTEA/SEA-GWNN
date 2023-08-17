@@ -23,9 +23,8 @@ The folder "homophilic graphs" is the code for the for standard citation network
 You will require pytroch gpu version 1.12.0 from pytorch (https://pytorch.org/get-started/previous-versions/).
 ```
 conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 cudatoolkit=11.3 -c pytorch
-
 ```
-Then run requirements.txt file.
+Then run the requirements.txt file.
 ```
 pip install -r requirements.txt
 ```
