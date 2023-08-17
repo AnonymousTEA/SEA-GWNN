@@ -1,4 +1,4 @@
-# Simple and Efficient Generalized Adaptive Graph Wavelet Neural Network
+# Simple and Effective Adaptive Graph Wavelet Neural Network
 This is a repository of the paper titled: "SEA-GWNN: Simple and Effective Adaptive Graph Wavelet Neural Network". Please download the pre-processed data from
 [GoogleDrive](https://drive.google.com/drive/folders/16aWw_90xGEttDy_y2D6Feu6pVVuc4qyZ?usp=sharing). 
 
