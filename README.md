@@ -13,7 +13,7 @@ This is a pytorch implementation of the paper titled: "SEA-GWNN: Simple and Effe
 
 All the requirements are given inside the "requirements.txt" file.
 ## Datasets
-We provide the Cora and Chameleon datasets in the folder 'data/' and 'new_data/' direactory. Additionally, you can also download all the datasets utilized in this paper form the Pei et. al. 2018, "Geom-GCN: Geometric Graph Convolutional Networks".
+We provide the Cora and Chameleon datasets in the folder 'data/' and 'new_data/' direactory. Additionally, you can download all the datasets utilized in this paper form the Pei et. al. 2018, "Geom-GCN: Geometric Graph Convolutional Networks".
 
 ## Code Structure
 The folder "homophilic graphs" is the code for the for standard citation networks (Cora, Citeseer, PubMed); and the folder "heterophilic graphs" is the code for the results in all the heterophilic datasets. Finally "large graphs" contain code for the large scale graphs.
